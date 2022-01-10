@@ -8,6 +8,6 @@ for i in range(n):
         lista2[i] = lista1[i] - 3
     else:
         lista2[i] = lista1[i] + 3
-
+//Komentar//
 for i in range(n):
     print(lista1[i], lista2[i])
